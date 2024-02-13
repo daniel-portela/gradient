@@ -11,10 +11,9 @@ Projeto de cartões com gradientes
 <a href="https://gradientanimation.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/Gradient/assets/110783805/13548307-8bcd-4fff-a466-d0085d6e3002)
 
-![alt text](preview-responsive.jpg)
-
+![preview-responsive](https://github.com/daniel-portela/Gradient/assets/110783805/ee6843a8-c9e3-4963-a015-e71a37a6b4f2)
 
 <b>Tecnologias Utilizadas:</b>
 
