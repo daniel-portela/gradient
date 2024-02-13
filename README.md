@@ -48,7 +48,6 @@ Para utilizar este projeto, basta incluir os arquivos HTML e CSS em seu projeto.
 
 Sinta-se à vontade para explorar, modificar e utilizar este projeto de cartões com gradientes em seus próprios projetos!
 
-Como utilizar
 <br><b>Pré-requisitos:</b>
 
 <p>Antes de começar, certifique-se de atender aos seguintes requisitos:</p>
