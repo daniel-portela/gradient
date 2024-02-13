@@ -48,6 +48,38 @@ Para utilizar este projeto, basta incluir os arquivos HTML e CSS em seu projeto.
 
 Sinta-se à vontade para explorar, modificar e utilizar este projeto de cartões com gradientes em seus próprios projetos!
 
+Como utilizar
+<br><b>Pré-requisitos:</b>
+
+<p>Antes de começar, certifique-se de atender aos seguintes requisitos:</p>
+
+[Git](https://git-scm.com/downloads "Download Git") deve ser instalado em seu sistema operacional.
+
+Execute localmente
+
+Para executar o <b>projeto</b> localmente, execute este comando em seu git bash:
+
+<b>Linux e macOS:</b>
+
+```bash
+git clone https://github.com/daniel-portela/Gradient.git
+```
+
+<b>Windows:</b>
+
+```bash
+git clone https://github.com/daniel-portela/Gradient.git
+```
+Depois de clonar o repositório, acesse o projeto com o seguinte comando:
+
+```bash
+cd nome-do-repositorio
+```
+
+```bash
+Você pode abri-lo no VS Code digitando "code ."
+```
+
 <br><b>Contato:</b>
 
 <p>Se você quiser entrar em contato comigo, sinta-se a vontade.</p> 
